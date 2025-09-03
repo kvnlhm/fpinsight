@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter/Notebook
+.ipynb_checkpoints/
+
+# Reports & generated artifacts
+generated_pdfs/
+reports/
+report.pdf
+report_history.json
+report_table.csv
+laporan.txt
+
+# Visual outputs
+fp_tree*
+conditional_fp_tree*
+*.png
+
+# Databases / secrets (adjust as needed)
+*.db
+*.sqlite
+.env
+
+# Streamlit
+.streamlit/
+
+# Logs
+log/
+*.log
+
