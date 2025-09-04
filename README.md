@@ -1,4 +1,4 @@
-FPInsight – Sistem Analisis Data Transaksi (FPGrowth & Aturan Asosiasi)
+aFPInsight – Sistem Analisis Data Transaksi (FPGrowth & Aturan Asosiasi)
 
 Ringkasan
 - FPInsight adalah aplikasi web berbasis Streamlit untuk menambang pola pembelian (frequent itemsets) dan menghasilkan Aturan Asosiasi dari data transaksi menggunakan algoritma FPGrowth. Aplikasi menyediakan visualisasi FP-Tree, perhitungan metrik (support, confidence, lift), serta ekspor laporan ke PDF.
